@@ -6105,8 +6105,8 @@
             <text>'Cause</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6117,11 +6117,8 @@
             <text>this</text>
             </Lyrics>
           <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6132,8 +6129,8 @@
             <text>is</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6172,8 +6169,8 @@
             <text>Thri</text>
             </Lyrics>
           <Note>
-            <pitch>74</pitch>
-            <tpc>16</tpc>
+            <pitch>78</pitch>
+            <tpc>20</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6186,13 +6183,10 @@
             <text>ller</text>
             </Lyrics>
           <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
             <Tie id="23">
               </Tie>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6203,8 +6197,8 @@
             <Tie id="24">
               </Tie>
             <endSpanner id="23"/>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6214,8 +6208,8 @@
           <durationType>eighth</durationType>
           <Note>
             <endSpanner id="24"/>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6259,11 +6253,8 @@
             <text>Thri</text>
             </Lyrics>
           <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6275,8 +6266,11 @@
             <text>ller</text>
             </Lyrics>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>75</pitch>
+            <tpc>23</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6287,8 +6281,8 @@
             <text>night</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6302,8 +6296,8 @@
             <text>And</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6340,8 +6334,8 @@
             <text>I</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6352,11 +6346,8 @@
             <text>can</text>
             </Lyrics>
           <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6367,8 +6358,8 @@
             <text>thrill</text>
             </Lyrics>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6379,11 +6370,8 @@
             <text>you</text>
             </Lyrics>
           <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6396,8 +6384,8 @@
           <Note>
             <Tie id="25">
               </Tie>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6406,8 +6394,8 @@
           <durationType>16th</durationType>
           <Note>
             <endSpanner id="25"/>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6422,8 +6410,8 @@
             <text>than</text>
             </Lyrics>
           <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6435,8 +6423,8 @@
             <text>a</text>
             </Lyrics>
           <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6448,8 +6436,8 @@
             <text>ny</text>
             </Lyrics>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6486,8 +6474,8 @@
             <text>one</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6498,11 +6486,8 @@
             <text>who's</text>
             </Lyrics>
           <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6514,8 +6499,8 @@
             <text>e</text>
             </Lyrics>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6527,11 +6512,8 @@
             <text>ver</text>
             </Lyrics>
           <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6545,8 +6527,8 @@
           <Note>
             <Tie id="26">
               </Tie>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6555,8 +6537,8 @@
           <durationType>16th</durationType>
           <Note>
             <endSpanner id="26"/>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6570,8 +6552,8 @@
             <text>You</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6606,11 +6588,8 @@
             <text>know</text>
             </Lyrics>
           <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6621,8 +6600,8 @@
             <text>it's</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6637,8 +6616,8 @@
             <text>Thri</text>
             </Lyrics>
           <Note>
-            <pitch>74</pitch>
-            <tpc>16</tpc>
+            <pitch>78</pitch>
+            <tpc>20</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6651,13 +6630,10 @@
             <text>ller</text>
             </Lyrics>
           <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
             <Tie id="27">
               </Tie>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6668,8 +6644,8 @@
             <Tie id="28">
               </Tie>
             <endSpanner id="27"/>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6703,8 +6679,8 @@
           <durationType>eighth</durationType>
           <Note>
             <endSpanner id="28"/>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6744,11 +6720,20 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>127</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
+            <pitch>75</pitch>
+            <tpc>23</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6756,17 +6741,8 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>127</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6777,8 +6753,8 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6812,8 +6788,8 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6821,11 +6797,8 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6833,8 +6806,8 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6842,11 +6815,8 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6856,8 +6826,8 @@
           <Note>
             <Tie id="29">
               </Tie>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6866,8 +6836,8 @@
           <durationType>16th</durationType>
           <Note>
             <endSpanner id="29"/>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6879,8 +6849,8 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6888,8 +6858,8 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6897,8 +6867,8 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6935,11 +6905,8 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6950,8 +6917,17 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            <velocity>127</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6965,26 +6941,14 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
-            <velocity>127</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
             <velocity>127</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6994,8 +6958,8 @@
         <Chord>
           <durationType>half</durationType>
           <Note>
-            <pitch>74</pitch>
-            <tpc>16</tpc>
+            <pitch>78</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Rest>
