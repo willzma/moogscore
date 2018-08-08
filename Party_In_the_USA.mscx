@@ -1014,9 +1014,9 @@
         </Measure>
       <Measure number="2">
         <Tempo>
-          <tempo>1.83333</tempo>
+          <tempo>1.6</tempo>
           <followText>1</followText>
-          <text><sym>unicodeNoteQuarterUp</sym> = 110</text>
+          <text><sym>unicodeNoteQuarterUp</sym> = 96</text>
           </Tempo>
         <Rest>
           <durationType>measure</durationType>
