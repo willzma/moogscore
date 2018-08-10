@@ -8715,19 +8715,8 @@
         </Measure>
       <Measure number="50">
         <Rest>
-          <durationType>16th</durationType>
-          </Rest>
-        <Rest>
-          <durationType>16th</durationType>
-          </Rest>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
-          <durationType>half</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
         </Measure>
       <Measure number="51">
