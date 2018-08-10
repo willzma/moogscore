@@ -4930,6 +4930,10 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
+        <Dynamic>
+          <subtype>mp</subtype>
+          <velocity>64</velocity>
+          </Dynamic>
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
@@ -24187,6 +24191,10 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
+        <Dynamic>
+          <subtype>mf</subtype>
+          <velocity>80</velocity>
+          </Dynamic>
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
