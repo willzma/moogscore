@@ -229,14 +229,6 @@
         <System>
           </System>
         </Page>
-      <Page>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        </Page>
       </PageList>
     <Part>
       <Staff id="1">
@@ -1094,7 +1086,7 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <Tempo>
-          <tempo>2.16667</tempo>
+          <tempo>2.13333</tempo>
           <followText>1</followText>
           <text><sym>unicodeNoteQuarterUp</sym> = 130</text>
           </Tempo>
@@ -5179,66 +5171,6 @@
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
           </Rest>
-        </Measure>
-      <Measure number="107">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="108">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="109">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="110">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="111">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="112">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="113">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="114">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="115">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="116">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>2</span>
@@ -6176,69 +6108,6 @@
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
-        <tick>122880</tick>
-        <Rest>
-          <track>5</track>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Chord>
-          <track>5</track>
-          <durationType>16th</durationType>
-          <Note>
-            <track>5</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <durationType>16th</durationType>
-          <Note>
-            <track>5</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <durationType>16th</durationType>
-          <Note>
-            <track>5</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <durationType>16th</durationType>
-          <Note>
-            <track>5</track>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <durationType>eighth</durationType>
-          <Note>
-            <track>5</track>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <durationType>eighth</durationType>
-          <Note>
-            <track>5</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <track>5</track>
-          <durationType>quarter</durationType>
-          </Rest>
         </Measure>
       <Measure number="66">
         <Chord>
@@ -6266,65 +6135,6 @@
             </Note>
           </Chord>
         <Rest>
-          <durationType>half</durationType>
-          </Rest>
-        <tick>124800</tick>
-        <Chord>
-          <track>5</track>
-          <durationType>16th</durationType>
-          <Note>
-            <track>5</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <durationType>16th</durationType>
-          <Note>
-            <track>5</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <durationType>16th</durationType>
-          <Note>
-            <track>5</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <durationType>16th</durationType>
-          <Note>
-            <track>5</track>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <durationType>eighth</durationType>
-          <Note>
-            <track>5</track>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <durationType>eighth</durationType>
-          <Note>
-            <track>5</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <track>5</track>
           <durationType>half</durationType>
           </Rest>
         </Measure>
@@ -6359,133 +6169,11 @@
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        <tick>126720</tick>
-        <Rest>
-          <track>5</track>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Chord>
-          <track>5</track>
-          <durationType>16th</durationType>
-          <Note>
-            <track>5</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <durationType>16th</durationType>
-          <Note>
-            <track>5</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <durationType>16th</durationType>
-          <Note>
-            <track>5</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <durationType>16th</durationType>
-          <Note>
-            <track>5</track>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <durationType>eighth</durationType>
-          <Note>
-            <track>5</track>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <durationType>eighth</durationType>
-          <Note>
-            <track>5</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <track>5</track>
-          <durationType>quarter</durationType>
-          </Rest>
         </Measure>
       <Measure number="68">
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
-          </Rest>
-        <tick>128640</tick>
-        <Chord>
-          <track>5</track>
-          <durationType>16th</durationType>
-          <Note>
-            <track>5</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <durationType>16th</durationType>
-          <Note>
-            <track>5</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <durationType>16th</durationType>
-          <Note>
-            <track>5</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <durationType>16th</durationType>
-          <Note>
-            <track>5</track>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <durationType>eighth</durationType>
-          <Note>
-            <track>5</track>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <durationType>eighth</durationType>
-          <Note>
-            <track>5</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Rest>
-          <track>5</track>
-          <durationType>half</durationType>
           </Rest>
         </Measure>
       <Measure number="69">
@@ -6711,66 +6399,6 @@
           </Rest>
         </Measure>
       <Measure number="106">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="107">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="108">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="109">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="110">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="111">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="112">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="113">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="114">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="115">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="116">
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
@@ -13534,66 +13162,6 @@
             <tpc>20</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="107">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="108">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="109">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="110">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="111">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="112">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="113">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="114">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="115">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="116">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -15704,66 +15272,6 @@
           </Rest>
         </Measure>
       <Measure number="106">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="107">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="108">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="109">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="110">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="111">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="112">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="113">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="114">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="115">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="116">
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
@@ -17938,66 +17446,6 @@
             <tpc>20</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="107">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="108">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="109">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="110">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="111">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="112">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="113">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="114">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="115">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="116">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -19596,66 +19044,6 @@
           </Rest>
         </Measure>
       <Measure number="106">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="107">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="108">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="109">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="110">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="111">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="112">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="113">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="114">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="115">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="116">
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
@@ -22839,66 +22227,6 @@
             <tpc>20</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="107">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="108">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="109">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="110">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="111">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="112">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="113">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="114">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="115">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="116">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -27962,66 +27290,6 @@
             <tpc>20</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="107">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="108">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="109">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="110">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="111">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="112">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="113">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="114">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="115">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="116">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -30330,66 +29598,6 @@
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
           </Rest>
-        </Measure>
-      <Measure number="107">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="108">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="109">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="110">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="111">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="112">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="113">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="114">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="115">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="116">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -32395,66 +31603,6 @@
             <tpc>20</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="107">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="108">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="109">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="110">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="111">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="112">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="113">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="114">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="115">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="116">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -33484,66 +32632,6 @@
           </Rest>
         </Measure>
       <Measure number="106">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="107">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="108">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="109">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="110">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="111">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="112">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="113">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="114">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="115">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="116">
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
@@ -39439,74 +38527,6 @@
             <tpc>20</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="107">
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
-        <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
-          <durationType>half</durationType>
-          </Rest>
-        </Measure>
-      <Measure number="108">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="109">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="110">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="111">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="112">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="113">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="114">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="115">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="116">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -50439,66 +49459,6 @@
             <head>1</head>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="107">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="108">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="109">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="110">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="111">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="112">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="113">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="114">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="115">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="116">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
