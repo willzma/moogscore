@@ -21313,6 +21313,10 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
+        <Dynamic>
+          <subtype>mp</subtype>
+          <velocity>64</velocity>
+          </Dynamic>
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
@@ -21361,10 +21365,6 @@
           </Rest>
         </Measure>
       <Measure number="9">
-        <Dynamic>
-          <subtype>mf</subtype>
-          <velocity>80</velocity>
-          </Dynamic>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -24822,6 +24822,10 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
+        <Dynamic>
+          <subtype>f</subtype>
+          <velocity>96</velocity>
+          </Dynamic>
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
