@@ -11923,9 +11923,29 @@
         </Measure>
       <Measure number="74">
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
+          <durationType>half</durationType>
           </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            </Note>
+          <Note>
+            <pitch>73</pitch>
+            <tpc>21</tpc>
+            </Note>
+          <Note>
+            <pitch>78</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="75">
         <Rest>
@@ -45386,9 +45406,21 @@
         </Measure>
       <Measure number="74">
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
+          <durationType>half</durationType>
           </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>42</pitch>
+            <tpc>20</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="75">
         <Rest>
